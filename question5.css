@@ -1,0 +1,9 @@
+.dev{
+	background-color:grey;
+	border: 2px solid black;
+    border-radius: 8px;
+	padding:5px;
+	letter-spacing:5px;
+    width: 50%;
+    text-align: center;
+}
