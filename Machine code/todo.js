@@ -33,7 +33,7 @@ function newElement() {
   document.getElementById("input").value = "";
 
   var myspan = document.createElement("span");
-//   var txt = document.createTextNode("\u00D7");
+  var txt = document.createTextNode("\u00D7");
   myspan.className = "deletebutton";
   myspan.appendChild(txt);
   li.appendChild(myspan);
